@@ -1,0 +1,13 @@
+src/config/google_cloud_credentials.json
+src/config/.env
+__pycache__/
+*.py[cod]
+*.class
+venv/
+env/
+.env/
+.vscode/
+.idea/
+data/audio/*.wav
+data/audio_output/*.mp3
+*.log
