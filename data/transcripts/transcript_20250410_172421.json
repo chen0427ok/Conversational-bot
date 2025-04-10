@@ -1,0 +1,11 @@
+{
+  "audio_file": "recording_20250410_172414.wav",
+  "timestamp": "20250410_172421",
+  "transcripts": [
+    {
+      "text": "歡迎的日本動漫是什麼？",
+      "confidence": 0.9259988,
+      "command_type": "查詢"
+    }
+  ]
+}

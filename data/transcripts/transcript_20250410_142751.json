@@ -1,0 +1,11 @@
+{
+  "audio_file": "recording_20250410_142744.wav",
+  "timestamp": "20250410_142751",
+  "transcripts": [
+    {
+      "text": "今天天氣如何？",
+      "confidence": 0.9259988,
+      "command_type": "查詢"
+    }
+  ]
+}

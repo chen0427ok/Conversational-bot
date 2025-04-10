@@ -1,0 +1,11 @@
+{
+  "audio_file": "recording_20250410_171354.wav",
+  "timestamp": "20250410_171402",
+  "transcripts": [
+    {
+      "text": "是2024奧運是哪一國舉辦？",
+      "confidence": 0.9259988,
+      "command_type": "查詢"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "audio_file": "recording_20250410_152824.wav",
+  "timestamp": "20250410_152832",
+  "transcripts": [
+    {
+      "text": "你好。",
+      "confidence": 0.9259988,
+      "command_type": "聊天"
+    }
+  ]
+}
